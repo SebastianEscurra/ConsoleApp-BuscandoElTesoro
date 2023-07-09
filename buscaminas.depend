@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676608587 source:c:\users\sebastian\desktop\c++\buscaminas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
